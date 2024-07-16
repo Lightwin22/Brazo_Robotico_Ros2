@@ -1,0 +1,24 @@
+[0.613s] Invoking command in '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto': PYTHONPATH=/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/paquete_proyecto build --build-base /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build install --record /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/install.log --single-version-externally-managed install_data
+[0.857s] running egg_info
+[0.859s] writing build/paquete_proyecto/paquete_proyecto.egg-info/PKG-INFO
+[0.860s] writing dependency_links to build/paquete_proyecto/paquete_proyecto.egg-info/dependency_links.txt
+[0.861s] writing entry points to build/paquete_proyecto/paquete_proyecto.egg-info/entry_points.txt
+[0.861s] writing requirements to build/paquete_proyecto/paquete_proyecto.egg-info/requires.txt
+[0.862s] writing top-level names to build/paquete_proyecto/paquete_proyecto.egg-info/top_level.txt
+[0.864s] reading manifest file 'build/paquete_proyecto/paquete_proyecto.egg-info/SOURCES.txt'
+[0.866s] writing manifest file 'build/paquete_proyecto/paquete_proyecto.egg-info/SOURCES.txt'
+[0.867s] running build
+[0.867s] running build_py
+[0.868s] copying paquete_proyecto/nodosimple.py -> /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build/lib/paquete_proyecto
+[0.869s] running install
+[0.869s] running install_lib
+[0.871s] copying /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build/lib/paquete_proyecto/nodosimple.py -> /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages/paquete_proyecto
+[0.872s] byte-compiling /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages/paquete_proyecto/nodosimple.py to nodosimple.cpython-310.pyc
+[0.873s] running install_data
+[0.873s] running install_egg_info
+[0.875s] removing '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages/paquete_proyecto-0.0.0-py3.10.egg-info' (and everything under it)
+[0.875s] Copying build/paquete_proyecto/paquete_proyecto.egg-info to /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages/paquete_proyecto-0.0.0-py3.10.egg-info
+[0.877s] running install_scripts
+[0.895s] Installing simple script to /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/paquete_proyecto
+[0.896s] writing list of installed files to '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/install.log'
+[0.928s] Invoked command in '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto' returned '0': PYTHONPATH=/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/paquete_proyecto build --build-base /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build install --record /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/install.log --single-version-externally-managed install_data

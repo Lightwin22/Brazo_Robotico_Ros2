@@ -1,0 +1,21 @@
+running egg_info
+writing ../build/paquete_proyecto/paquete_proyecto.egg-info/PKG-INFO
+writing dependency_links to ../build/paquete_proyecto/paquete_proyecto.egg-info/dependency_links.txt
+writing entry points to ../build/paquete_proyecto/paquete_proyecto.egg-info/entry_points.txt
+writing requirements to ../build/paquete_proyecto/paquete_proyecto.egg-info/requires.txt
+writing top-level names to ../build/paquete_proyecto/paquete_proyecto.egg-info/top_level.txt
+reading manifest file '../build/paquete_proyecto/paquete_proyecto.egg-info/SOURCES.txt'
+writing manifest file '../build/paquete_proyecto/paquete_proyecto.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+creating /home/vboxuser/Escritorio/ROS/entorno/install/paquete_proyecto/share/paquete_proyecto/launch
+copying launch/visualization.launch.py -> /home/vboxuser/Escritorio/ROS/entorno/install/paquete_proyecto/share/paquete_proyecto/launch/
+running install_egg_info
+removing '/home/vboxuser/Escritorio/ROS/entorno/install/paquete_proyecto/lib/python3.10/site-packages/paquete_proyecto-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/paquete_proyecto/paquete_proyecto.egg-info to /home/vboxuser/Escritorio/ROS/entorno/install/paquete_proyecto/lib/python3.10/site-packages/paquete_proyecto-0.0.0-py3.10.egg-info
+running install_scripts
+Installing simple script to /home/vboxuser/Escritorio/ROS/entorno/install/paquete_proyecto/lib/paquete_proyecto
+writing list of installed files to '/home/vboxuser/Escritorio/ROS/entorno/build/paquete_proyecto/install.log'

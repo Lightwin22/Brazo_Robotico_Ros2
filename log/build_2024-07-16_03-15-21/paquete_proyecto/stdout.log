@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing paquete_proyecto.egg-info/PKG-INFO
+writing dependency_links to paquete_proyecto.egg-info/dependency_links.txt
+writing entry points to paquete_proyecto.egg-info/entry_points.txt
+writing requirements to paquete_proyecto.egg-info/requires.txt
+writing top-level names to paquete_proyecto.egg-info/top_level.txt
+reading manifest file 'paquete_proyecto.egg-info/SOURCES.txt'
+writing manifest file 'paquete_proyecto.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/vboxuser/Escritorio/ROS/entorno/install/paquete_proyecto/lib/python3.10/site-packages/paquete-proyecto.egg-link (link to .)
+Installing simple script to /home/vboxuser/Escritorio/ROS/entorno/install/paquete_proyecto/lib/paquete_proyecto
+
+Installed /home/vboxuser/Escritorio/ROS/entorno/build/paquete_proyecto
+running symlink_data
+symbolically linking /home/vboxuser/Escritorio/ROS/entorno/build/paquete_proyecto/resource/paquete_proyecto -> /home/vboxuser/Escritorio/ROS/entorno/install/paquete_proyecto/share/ament_index/resource_index/packages
+symbolically linking /home/vboxuser/Escritorio/ROS/entorno/build/paquete_proyecto/package.xml -> /home/vboxuser/Escritorio/ROS/entorno/install/paquete_proyecto/share/paquete_proyecto
+symbolically linking /home/vboxuser/Escritorio/ROS/entorno/build/paquete_proyecto/launch/visualization.launch.py -> /home/vboxuser/Escritorio/ROS/entorno/install/paquete_proyecto/share/paquete_proyecto/launch/

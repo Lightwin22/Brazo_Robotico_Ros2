@@ -1,0 +1,37 @@
+[0.610s] Invoking command in '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto': PYTHONPATH=/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/paquete_proyecto build --build-base /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build install --record /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/install.log --single-version-externally-managed install_data
+[0.863s] running egg_info
+[0.864s] creating build/paquete_proyecto/paquete_proyecto.egg-info
+[0.865s] writing build/paquete_proyecto/paquete_proyecto.egg-info/PKG-INFO
+[0.865s] writing dependency_links to build/paquete_proyecto/paquete_proyecto.egg-info/dependency_links.txt
+[0.865s] writing entry points to build/paquete_proyecto/paquete_proyecto.egg-info/entry_points.txt
+[0.866s] writing requirements to build/paquete_proyecto/paquete_proyecto.egg-info/requires.txt
+[0.866s] writing top-level names to build/paquete_proyecto/paquete_proyecto.egg-info/top_level.txt
+[0.866s] writing manifest file 'build/paquete_proyecto/paquete_proyecto.egg-info/SOURCES.txt'
+[0.871s] reading manifest file 'build/paquete_proyecto/paquete_proyecto.egg-info/SOURCES.txt'
+[0.871s] writing manifest file 'build/paquete_proyecto/paquete_proyecto.egg-info/SOURCES.txt'
+[0.871s] running build
+[0.871s] running build_py
+[0.871s] creating /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build
+[0.871s] creating /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build/lib
+[0.871s] creating /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build/lib/paquete_proyecto
+[0.871s] copying paquete_proyecto/nodosimple.py -> /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build/lib/paquete_proyecto
+[0.872s] copying paquete_proyecto/__init__.py -> /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build/lib/paquete_proyecto
+[0.872s] running install
+[0.872s] running install_lib
+[0.872s] creating /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages/paquete_proyecto
+[0.872s] copying /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build/lib/paquete_proyecto/nodosimple.py -> /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages/paquete_proyecto
+[0.872s] copying /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build/lib/paquete_proyecto/__init__.py -> /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages/paquete_proyecto
+[0.872s] byte-compiling /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages/paquete_proyecto/nodosimple.py to nodosimple.cpython-310.pyc
+[0.872s] byte-compiling /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages/paquete_proyecto/__init__.py to __init__.cpython-310.pyc
+[0.872s] running install_data
+[0.872s] creating /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/share/ament_index
+[0.872s] creating /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/share/ament_index/resource_index
+[0.872s] creating /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/share/ament_index/resource_index/packages
+[0.872s] copying resource/paquete_proyecto -> /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/share/ament_index/resource_index/packages
+[0.872s] copying package.xml -> /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/share/paquete_proyecto
+[0.873s] running install_egg_info
+[0.874s] Copying build/paquete_proyecto/paquete_proyecto.egg-info to /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages/paquete_proyecto-0.0.0-py3.10.egg-info
+[0.874s] running install_scripts
+[0.896s] Installing simple script to /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/paquete_proyecto
+[0.896s] writing list of installed files to '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/install.log'
+[0.938s] Invoked command in '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto' returned '0': PYTHONPATH=/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/paquete_proyecto build --build-base /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build install --record /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/install.log --single-version-externally-managed install_data

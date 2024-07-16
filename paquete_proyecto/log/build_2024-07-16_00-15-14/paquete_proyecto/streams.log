@@ -1,0 +1,21 @@
+[0.832s] Invoking command in '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto': PYTHONPATH=/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/paquete_proyecto build --build-base /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build install --record /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/install.log --single-version-externally-managed install_data
+[1.194s] running egg_info
+[1.195s] writing build/paquete_proyecto/paquete_proyecto.egg-info/PKG-INFO
+[1.195s] writing dependency_links to build/paquete_proyecto/paquete_proyecto.egg-info/dependency_links.txt
+[1.196s] writing entry points to build/paquete_proyecto/paquete_proyecto.egg-info/entry_points.txt
+[1.196s] writing requirements to build/paquete_proyecto/paquete_proyecto.egg-info/requires.txt
+[1.196s] writing top-level names to build/paquete_proyecto/paquete_proyecto.egg-info/top_level.txt
+[1.198s] reading manifest file 'build/paquete_proyecto/paquete_proyecto.egg-info/SOURCES.txt'
+[1.205s] writing manifest file 'build/paquete_proyecto/paquete_proyecto.egg-info/SOURCES.txt'
+[1.206s] running build
+[1.206s] running build_py
+[1.207s] running install
+[1.207s] running install_lib
+[1.211s] running install_data
+[1.212s] running install_egg_info
+[1.214s] removing '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages/paquete_proyecto-0.0.0-py3.10.egg-info' (and everything under it)
+[1.221s] Copying build/paquete_proyecto/paquete_proyecto.egg-info to /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages/paquete_proyecto-0.0.0-py3.10.egg-info
+[1.222s] running install_scripts
+[1.248s] Installing simple script to /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/paquete_proyecto
+[1.249s] writing list of installed files to '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/install.log'
+[1.310s] Invoked command in '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto' returned '0': PYTHONPATH=/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/install/paquete_proyecto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/paquete_proyecto build --build-base /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/build install --record /home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/build/paquete_proyecto/install.log --single-version-externally-managed install_data
