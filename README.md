@@ -8,11 +8,11 @@ Requerimientos:
 `Gazebo`
 `Rviz`
 
-##Simulaciones
+## Simulaciones
 
 A continuación se detallan los pasos para poder correctamente las simulaciones tanto del entorno de Rviz y gazebo, todo esto desde la terminal de linux
 
-####Simulación en Rviz
+#### Simulación en Rviz
 Para pdoer ejecutar los comandos correctamente, abriremos la terminal en la cual tenemos almacenado el proyecto y se deberá ejecutar el siguiente comando:
 ```
 source/opt/ros/iron/setup.bash
@@ -30,4 +30,7 @@ source install/local_setup.bash
 ros2 launch paquete_proyecto visualizacion.launch.py
 ```
 
-####Simulación en Gazebo
+
+
+#### Simulación en Gazebo
+
