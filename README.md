@@ -8,7 +8,7 @@ Requerimientos:
 `Gazebo`
 `Rviz`
 
-##Simulaciones
+## Simulaciones
 
 A continuación se detallan los pasos para poder correctamente las simulaciones tanto del entorno de Rviz y gazebo, todo esto desde la terminal de linux
 
@@ -42,7 +42,7 @@ Como se usará la versión Iron de Ros2, lo que hace es configurar el entorno de
 
 
 
-####Simulación en Gazebo
+#### Simulación en Gazebo
 
 Al igual que las simulaciones de Rviz, abriremos la terminal donde estan alojados los archivos pertenecientes al proyecto y se ejecutaran la siguientes lineas de comando:
 ```
