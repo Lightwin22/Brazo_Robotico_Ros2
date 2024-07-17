@@ -5,7 +5,7 @@ from launch_ros.actions import Node
 
 def generate_launch_description():
 
-    urdf_path = '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/urdf/proyecto_ros.urdf'
+    urdf_path = '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/urdf/proyecto_xacro.urdf'
 
     pub = Node(
         package="robot_state_publisher",

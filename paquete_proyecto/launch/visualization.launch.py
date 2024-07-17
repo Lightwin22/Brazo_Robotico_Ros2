@@ -4,7 +4,7 @@ from launch_ros.actions import Node
 
 def generate_launch_description():
 
-    urdf_path = '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/urdf/proyecto_xacro.urdf'
+    urdf_path = '/home/vboxuser/Escritorio/ROS/entorno/paquete_proyecto/urdf/proyecto_urdf.urdf'
 
     with open(urdf_path, 'r') as i:
         robot_desc = i.read()
