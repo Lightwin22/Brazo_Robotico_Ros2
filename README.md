@@ -1,4 +1,4 @@
-Brazo robótico de 3 grados de libertad usando Ros2
+# Brazo robótico de 3 grados de libertad usando Ros2
 
     | Asignatura  | Programación de robots con Ros |
     | Integrantres | Bastián Almonacid  Darwin Muñoz |
@@ -31,7 +31,7 @@ ros2 launch paquete_proyecto visualizacion.launch.py
 ```
 Si se ejecuta todo de manera correcta nos debería de abrir la siguiente interfaz para poder interactuar con el brazo
 
-
+![](https://github.com/Lightwin22/Brazo_Robotico_Ros2/blob/master/Rviz.jpeg)
 
 
 
@@ -65,7 +65,7 @@ ros2 launch paquete_proyecto gazebo.launch.py
 ```
 Al igual como se realizarón las simulaciones con Rviz, si se ejecutaron todos los comandos correctamente, nos debería de abrir el entorno de Gazebo con el mundo se creo previamente para poder interacturar con el brazo robótico.
 
-
+![](https://github.com/Lightwin22/Brazo_Robotico_Ros2/blob/master/Gazebo.jpeg)
 
 
 
