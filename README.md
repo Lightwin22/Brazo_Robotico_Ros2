@@ -66,4 +66,6 @@ Al igual como se realizarón las simulaciones con Rviz, si se ejecutaron todos l
 
 Tanto el launch de Gazebo como el de Rviz ejecutan además los nodos de joint_state_publisher_gui y robot_state_publisher.
 
+![](https://github.com/Lightwin22/Brazo_Robotico_Ros2/blob/master/sensor_rviz.jpeg)
 
+Integración de sensor/cámara visualizada desde Rviz
